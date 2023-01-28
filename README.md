@@ -1,4 +1,4 @@
-# bilgiyarismasiStoreProcedure
+# Quiz Program with StoreProcedure
 
 ## this app is form application that written in C# Language
 
